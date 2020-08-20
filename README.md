@@ -1,6 +1,6 @@
 # Intro to React Sprint Challenge
 
---Stucture Decided/Initial Push
+--Stucture Decided/Initial Push--
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
